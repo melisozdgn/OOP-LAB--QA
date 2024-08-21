@@ -2,8 +2,8 @@
 Use of
 
 * Constructor
-* Default Constructor
-* Copy Constructor
+ * Default Constructor
+ * Copy Constructor
 * Destructor
 * Function Overloading
 * Memory Allocotion
@@ -11,4 +11,6 @@ Use of
 * Operator Overload
 * Inheritance
 * Polymorphism
-* Virtual Functions
+* Virtual Function
+* Abstract Classes
+  * Pure Virtual Func
